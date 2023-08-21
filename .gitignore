@@ -463,3 +463,6 @@ cython_debug/
 /code/solutions/package-and-deploy/response.json
 assets
 .vale.ini
+
+# Custom ignore
+.python-version
