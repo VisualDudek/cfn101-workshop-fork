@@ -2,11 +2,11 @@
 AWS CloudFormation - Workshop (Forked Repository)
 </h1>
 
-forked from [aws-samples/cfn101-workshop][https://github.com/aws-samples/cfn101-workshop]
+forked from [aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-workshop)
 
 This repository is a fork of the official AWS CloudFormation Workshop. The primary intention behind this fork is to develop and maintain my own AWS CloudFormation templates.
 
-The working directoy is located in [][]
+The working directoy is located in []()
 
 
 (Legacy) working directory is located in [code/workspace](code/workspace) where you can follow along and write your code to.
