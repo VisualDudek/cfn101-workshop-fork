@@ -6,13 +6,19 @@ forked from [aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-
 
 This repository is a fork of the official AWS CloudFormation Workshop. The primary intention behind this fork is to develop and maintain my own AWS CloudFormation templates.
 
-The working directoy is located in []()
+The working directoy is located in [mycode](mycode)
 
 
 (Legacy) working directory is located in [code/workspace](code/workspace) where you can follow along and write your code to.
 
 In the [code/solutions](code/solutions), you can find the completed solution for each lab. This can be used as a
 reference, in case you get stuck or things don't work as intended.
+
+## Getting Started
+
+1. Prerequisites
+    - Install python requirements `requirements.txt` especially `cfn-lint`
+
 
 ## Local development
 To set-up a local development environment for changing the workshop, please follow the instructions in
