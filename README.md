@@ -19,6 +19,10 @@ reference, in case you get stuck or things don't work as intended.
 1. Prerequisites
     - Install python requirements `requirements.txt` especially `cfn-lint`
 
+## Deploy the stack uising AWS CLI
+```shell
+aws cloudformation create-stack --stack-name <stack-name> --template-body file://<template-name>.yaml --capabilities CAPABILITY_NAMED_IAM
+```
 
 ## Local development
 To set-up a local development environment for changing the workshop, please follow the instructions in
