@@ -6,7 +6,7 @@ forked from [aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-
 
 This repository is a fork of the official AWS CloudFormation Workshop. The primary intention behind this fork is to develop and maintain my own AWS CloudFormation templates.
 
-The working directoy is located in [mycode](mycode)
+The working directory is located in [mycode](mycode). Notes to mycode are located at [notes](mycode/MYCODE_NOTES.mdj)
 
 
 (Legacy) working directory is located in [code/workspace](code/workspace) where you can follow along and write your code to.
